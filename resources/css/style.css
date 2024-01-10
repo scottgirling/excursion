@@ -7,8 +7,9 @@ html {
     text-align: center;
 }
 
-h1 {
+#title {
     font-size: 2.5rem;
+    margin-top: 1.5rem;
 }
 
 h4 {
@@ -20,4 +21,14 @@ h4 {
 
 a:hover, a:visited {
     color: aquamarine
+}
+
+#travel-guide {
+    font-weight: 300;
+    font-size: 2.1rem;
+}
+
+#travel-guide-sub {
+    font-size: 1.05rem;
+    color: gray;
 }
